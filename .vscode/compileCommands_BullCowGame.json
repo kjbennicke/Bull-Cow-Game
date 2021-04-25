@@ -1,0 +1,57 @@
+[
+	{
+		"file": "/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Source/BullCowGame/BullCowCartridge.cpp",
+		"command": "cl.exe @\"/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/.vscode/compileCommands_BullCowGame/BullCowGame.171.rsp\"",
+		"directory": "/Users/kerrybennicke/UE_4.26/Engine/Source"
+	},
+	{
+		"file": "/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Source/BullCowGame/BullCowCartridge.h",
+		"command": "cl.exe @\"/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/.vscode/compileCommands_BullCowGame/BullCowGame.171.rsp\"",
+		"directory": "/Users/kerrybennicke/UE_4.26/Engine/Source"
+	},
+	{
+		"file": "/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Source/BullCowGame/BullCowGame.Build.cs",
+		"command": "cl.exe @\"/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/.vscode/compileCommands_BullCowGame/BullCowGame.171.rsp\"",
+		"directory": "/Users/kerrybennicke/UE_4.26/Engine/Source"
+	},
+	{
+		"file": "/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Source/BullCowGame/BullCowGame.cpp",
+		"command": "cl.exe @\"/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/.vscode/compileCommands_BullCowGame/BullCowGame.171.rsp\"",
+		"directory": "/Users/kerrybennicke/UE_4.26/Engine/Source"
+	},
+	{
+		"file": "/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Source/BullCowGame/BullCowGame.h",
+		"command": "cl.exe @\"/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/.vscode/compileCommands_BullCowGame/BullCowGame.171.rsp\"",
+		"directory": "/Users/kerrybennicke/UE_4.26/Engine/Source"
+	},
+	{
+		"file": "/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Source/BullCowGame/BullCowGameGameModeBase.cpp",
+		"command": "cl.exe @\"/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/.vscode/compileCommands_BullCowGame/BullCowGame.171.rsp\"",
+		"directory": "/Users/kerrybennicke/UE_4.26/Engine/Source"
+	},
+	{
+		"file": "/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Source/BullCowGame/BullCowGameGameModeBase.h",
+		"command": "cl.exe @\"/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/.vscode/compileCommands_BullCowGame/BullCowGame.171.rsp\"",
+		"directory": "/Users/kerrybennicke/UE_4.26/Engine/Source"
+	},
+	{
+		"file": "/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Source/BullCowGame/Console/Cartridge.cpp",
+		"command": "cl.exe @\"/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/.vscode/compileCommands_BullCowGame/BullCowGame.171.rsp\"",
+		"directory": "/Users/kerrybennicke/UE_4.26/Engine/Source"
+	},
+	{
+		"file": "/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Source/BullCowGame/Console/Cartridge.h",
+		"command": "cl.exe @\"/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/.vscode/compileCommands_BullCowGame/BullCowGame.171.rsp\"",
+		"directory": "/Users/kerrybennicke/UE_4.26/Engine/Source"
+	},
+	{
+		"file": "/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Source/BullCowGame/Console/Terminal.cpp",
+		"command": "cl.exe @\"/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/.vscode/compileCommands_BullCowGame/BullCowGame.171.rsp\"",
+		"directory": "/Users/kerrybennicke/UE_4.26/Engine/Source"
+	},
+	{
+		"file": "/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Source/BullCowGame/Console/Terminal.h",
+		"command": "cl.exe @\"/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/.vscode/compileCommands_BullCowGame/BullCowGame.171.rsp\"",
+		"directory": "/Users/kerrybennicke/UE_4.26/Engine/Source"
+	}
+]
