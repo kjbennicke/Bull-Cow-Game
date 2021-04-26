@@ -1,5 +1,5 @@
 -include "/Users/kerrybennicke/UE_4.26/Engine/Plugins/Experimental/AlembicImporter/Intermediate/Build/Mac/x86_64/UE4Editor/Development/AlembicImporter/Definitions.AlembicImporter.h"
--include "/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Intermediate/Build/Mac/x86_64/BullCowGameEditor/Development/UnrealEd/SharedPCH.UnrealEd.ShadowErrors.h"
+-include "/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Bull-Cow-Game/Intermediate/Build/Mac/x86_64/BullCowGameEditor/Development/UnrealEd/SharedPCH.UnrealEd.ShadowErrors.h"
 -I"/Users/kerrybennicke/UE_4.26/Engine/Source"
 -I"/Users/kerrybennicke/UE_4.26/Engine/Plugins/Experimental/AlembicImporter/Source/AlembicImporter/Private"
 -I"/Users/kerrybennicke/UE_4.26/Engine/Plugins/Experimental/AlembicImporter/Intermediate/Build/Mac/x86_64/UE4Editor/Inc/AlembicImporter"

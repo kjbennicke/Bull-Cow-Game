@@ -1,5 +1,5 @@
 -include "/Users/kerrybennicke/UE_4.26/Engine/Plugins/Experimental/GeometryCache/Intermediate/Build/Mac/x86_64/UE4Editor/Development/GeometryCacheSequencer/Definitions.GeometryCacheSequencer.h"
--include "/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Intermediate/Build/Mac/x86_64/BullCowGameEditor/Development/UnrealEd/SharedPCH.UnrealEd.ShadowErrors.h"
+-include "/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Bull-Cow-Game/Intermediate/Build/Mac/x86_64/BullCowGameEditor/Development/UnrealEd/SharedPCH.UnrealEd.ShadowErrors.h"
 -I"/Users/kerrybennicke/UE_4.26/Engine/Source"
 -I"/Users/kerrybennicke/UE_4.26/Engine/Plugins/Experimental/GeometryCache/Source/GeometryCacheSequencer/Private"
 -I"/Users/kerrybennicke/UE_4.26/Engine/Intermediate/Build/Mac/x86_64/UE4Editor/Inc/AssetTools"

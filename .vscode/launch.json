@@ -5,7 +5,7 @@
 			"name": "BullCowGame (Debug)",
 			"request": "launch",
 			"preLaunchTask": "BullCowGame Mac Debug Build",
-			"program": "/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Binaries/Mac/UE4-Mac-Debug.app/Contents/MacOS/UE4-Mac-Debug",
+			"program": "/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Bull-Cow-Game/Binaries/Mac/UE4-Mac-Debug.app/Contents/MacOS/UE4-Mac-Debug",
 			"args": [
 			],
 			"cwd": "/Users/kerrybennicke/UE_4.26",
@@ -15,7 +15,7 @@
 			"name": "BullCowGame (DebugGame)",
 			"request": "launch",
 			"preLaunchTask": "BullCowGame Mac DebugGame Build",
-			"program": "/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Binaries/Mac/UE4-Mac-DebugGame.app/Contents/MacOS/UE4-Mac-DebugGame",
+			"program": "/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Bull-Cow-Game/Binaries/Mac/UE4-Mac-DebugGame.app/Contents/MacOS/UE4-Mac-DebugGame",
 			"args": [
 			],
 			"cwd": "/Users/kerrybennicke/UE_4.26",
@@ -25,7 +25,7 @@
 			"name": "BullCowGame (Development)",
 			"request": "launch",
 			"preLaunchTask": "BullCowGame Mac Development Build",
-			"program": "/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Binaries/Mac/UE4.app/Contents/MacOS/UE4",
+			"program": "/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Bull-Cow-Game/Binaries/Mac/UE4.app/Contents/MacOS/UE4",
 			"args": [
 			],
 			"cwd": "/Users/kerrybennicke/UE_4.26",
@@ -35,7 +35,7 @@
 			"name": "BullCowGame (Shipping)",
 			"request": "launch",
 			"preLaunchTask": "BullCowGame Mac Shipping Build",
-			"program": "/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Binaries/Mac/UE4-Mac-Shipping.app/Contents/MacOS/UE4-Mac-Shipping",
+			"program": "/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Bull-Cow-Game/Binaries/Mac/UE4-Mac-Shipping.app/Contents/MacOS/UE4-Mac-Shipping",
 			"args": [
 			],
 			"cwd": "/Users/kerrybennicke/UE_4.26",
@@ -45,7 +45,7 @@
 			"name": "BullCowGame (Test)",
 			"request": "launch",
 			"preLaunchTask": "BullCowGame Mac Test Build",
-			"program": "/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Binaries/Mac/UE4-Mac-Test.app/Contents/MacOS/UE4-Mac-Test",
+			"program": "/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Bull-Cow-Game/Binaries/Mac/UE4-Mac-Test.app/Contents/MacOS/UE4-Mac-Test",
 			"args": [
 			],
 			"cwd": "/Users/kerrybennicke/UE_4.26",
@@ -57,7 +57,7 @@
 			"preLaunchTask": "BullCowGameEditor Mac Debug Build",
 			"program": "/Users/kerrybennicke/UE_4.26/Engine/Binaries/Mac/UE4Editor-Mac-Debug.app/Contents/MacOS/UE4Editor-Mac-Debug",
 			"args": [
-				"/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/BullCowGame.uproject"
+				"/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Bull-Cow-Game/BullCowGame.uproject"
 			],
 			"cwd": "/Users/kerrybennicke/UE_4.26",
 			"type": "lldb"
@@ -68,7 +68,7 @@
 			"preLaunchTask": "BullCowGameEditor Mac DebugGame Build",
 			"program": "/Users/kerrybennicke/UE_4.26/Engine/Binaries/Mac/UE4Editor-Mac-DebugGame.app/Contents/MacOS/UE4Editor-Mac-DebugGame",
 			"args": [
-				"/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/BullCowGame.uproject"
+				"/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Bull-Cow-Game/BullCowGame.uproject"
 			],
 			"cwd": "/Users/kerrybennicke/UE_4.26",
 			"type": "lldb"
@@ -79,7 +79,7 @@
 			"preLaunchTask": "BullCowGameEditor Mac Development Build",
 			"program": "/Users/kerrybennicke/UE_4.26/Engine/Binaries/Mac/UE4Editor.app/Contents/MacOS/UE4Editor",
 			"args": [
-				"/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/BullCowGame.uproject"
+				"/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Bull-Cow-Game/BullCowGame.uproject"
 			],
 			"cwd": "/Users/kerrybennicke/UE_4.26",
 			"type": "lldb"
@@ -93,7 +93,7 @@
 			"args": [
 				"-projectfiles",
 				"-vscode",
-				"-project=\"/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/BullCowGame.uproject\"",
+				"-project=\"/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Bull-Cow-Game/BullCowGame.uproject\"",
 				"-game",
 				"-engine"
 			],

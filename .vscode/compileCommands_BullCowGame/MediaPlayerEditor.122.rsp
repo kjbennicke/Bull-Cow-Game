@@ -1,5 +1,5 @@
 -include "/Users/kerrybennicke/UE_4.26/Engine/Plugins/Media/MediaPlayerEditor/Intermediate/Build/Mac/x86_64/UE4Editor/Development/MediaPlayerEditor/Definitions.MediaPlayerEditor.h"
--include "/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Intermediate/Build/Mac/x86_64/BullCowGameEditor/Development/UnrealEd/SharedPCH.UnrealEd.ShadowErrors.h"
+-include "/Users/kerrybennicke/Documents/GitHub/Unreal Dev Course/BullCowGame/Bull-Cow-Game/Intermediate/Build/Mac/x86_64/BullCowGameEditor/Development/UnrealEd/SharedPCH.UnrealEd.ShadowErrors.h"
 -I"/Users/kerrybennicke/UE_4.26/Engine/Source"
 -I"/Users/kerrybennicke/UE_4.26/Engine/Plugins/Media/MediaPlayerEditor/Source/MediaPlayerEditor/Private"
 -I"/Users/kerrybennicke/UE_4.26/Engine/Intermediate/Build/Mac/x86_64/UE4Editor/Inc/AudioMixer"
